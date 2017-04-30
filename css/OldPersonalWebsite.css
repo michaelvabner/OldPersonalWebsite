@@ -1,0 +1,91 @@
+
+nav {
+	word-spacing: 75px;
+	background-color: #efefef;
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+.NavMain {
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	display: inline;
+	word-spacing: 60px;	
+	margin: 0 auto;
+}
+.NavMain li{
+	display: inline;
+	font-size: 25px;	
+}
+a {
+	color: #1D1313;
+	text-decoration: none;
+}
+a:hover {
+	color: #E83F3F;
+}
+
+body {
+	margin: 0;
+	background: url("Background.png");
+}
+.Center {
+	margin-top: 15%;
+}
+h1 {
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+	font-size: 60px;
+}
+.info {
+	font-family: 'Raleway', sans-serif;
+	font-size: 1.2em;
+	margin-left: 30%;
+	margin-right: 30%;
+	word-spacing: 5px;
+	color: #1D1313;
+	position: static;
+}
+ul.social-media, ul.social-media li{
+	display: inline;
+	clear: both;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-top: 0px;
+}
+.ProjectHeader {
+	margin-top: 5%;
+	text-align: center;
+}
+.postdivider{	
+  	border-top: 5px solid #000000;
+  	border-left: none;
+  	border-right: none;
+  	border-bottom: none;
+   	margin-right: 0%;
+  	margin-left: 0%;
+ 	height: auto;
+}
+.Contact {
+	text-decoration: underline;
+}
+#Project1 {
+	font-family: 'Raleway', sans-serif;
+	width: 700px;
+	display: block;
+	margin: 0 auto;
+}
+#Project1 h1 {
+	margin-top: 0;
+	font-size: 44px;
+}
+footer {
+	text-align: center;
+	word-spacing: 75px;
+	background-color: #efefef;
+	bottom: 0;
+	width: 100%;
+	margin: 0 auto;
+	position: fixed;
+}
